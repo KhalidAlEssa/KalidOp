@@ -1,6 +1,6 @@
 # Contact Me 
 <a href="https://instagram.com/khallid612">
-<img alt="Instagram" src="https://img.shields.io/badge/t8qu_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img alt="Instagram" src="https://img.shields.io/badge/khallid612%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href="https://twitter.com/OpHacker77">
 <img alt="twitter" src="https://img.shields.io/badge/OpHacker77%20-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 
